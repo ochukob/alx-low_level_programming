@@ -1,9 +1,9 @@
-include "main.h"
+#include "main.h"
 
 /**
- *main - check the code
- *
- *Return: Always 
+ * main - print _putchar
+ * is written by ochuko
+ * Return: 0
  */
 
 int main(void)
@@ -14,9 +14,8 @@ _putchar('u');
 _putchar('t');
 _putchar('c');
 _putchar('h');
-_putcahr('a');
+_putchar('a');
 _putchar('r');
 _putchar('\n');
 return (0);
 }
-
